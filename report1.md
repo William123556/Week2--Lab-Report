@@ -28,6 +28,7 @@ After making my SSH key, it made the scp process a lot more efficient, especiall
 
 **Step 6**
 
-<img width="658" alt="Screen Shot 2022-04-08 at 9 39 33 AM" src="https://user-images.githubusercontent.com/103155832/162485082-91144ff6-37bd-4052-82be-adae5260c327.png">
+<img width="1246" alt="Screen Shot 2022-04-17 at 11 24 34 PM" src="https://user-images.githubusercontent.com/103155832/163764948-43f3084f-17a7-4008-924b-7448cb89195b.png">
+
 
 I write a command in quotes at the end of an ssh command to directly run it on the remote server. I use semicolons to run multiple commands on the same line in most terminals.
